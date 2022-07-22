@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guilherme Santos
 - 👀 I’m interested in data science and desktop application development.
-- 🌱 I’m currently learning C++, Python and MySQL.
-- 💞️ I’m looking to collaborate on simple automation projects using Python and Selenium, data science and c++ program development.
+- 🌱 I’m currently learning C++ and Python.
+- 💞️ I’m looking to collaborate on simple projects using Python in data science, and c++ program development.
 - 📫 How to reach me: guilherme.ssilva@protonmail.com
 
 <!---
