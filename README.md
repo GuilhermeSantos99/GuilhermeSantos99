@@ -1,8 +1,6 @@
 <h3>  👋🏽 Hi, I’m Guilherme Santos </h3>
 
 ---
-
-
 <p>🦉 I’m looking to learning and collaborate on projects using Python and C++.</p>
 <p>🧰 I’m currently learning and using: </p>
 <div>
@@ -27,6 +25,11 @@
 
 <p>📫 How to reach me: </p>
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](malito:guilherme.ssilva@protonmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Guilher_me99)
-
-
+<div>
+    <a href="malito:guilherme.ssilva@protonmail.com">
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail image">
+    </a>
+    <a href="https://twitter.com/Guilher_me99">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter image">
+    </a>
+</div>
