@@ -1,8 +1,7 @@
 <h3>  👋🏽 Hi, I’m Guilherme Santos </h3>
 
 ---
-<p>🦉 I’m looking to learning and collaborate on projects using Python and C++.</p>
-<p>🧰 I’m currently learning and using: </p>
+<p>🦉 I’m looking to learning Python and C++.</p>
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cppImg" align="center" height="45" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="qtImg" align="center" height="34" width="45">
@@ -10,15 +9,17 @@
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="pythonImg" align="center" height="45" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySQLImg" align="center" height="30" width="40"></li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="seleniumImg" align="center" height="30" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandasImg" align="center" height="30" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="djangoImg" align="center" height="30" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="djangoImg" align="center" height="30" width="40">
+          
+          
 </div>
 
 ---
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSantos99&show_icons=true&theme=dark&border_radius=25&hide_border=true&locale=pt-BR&title_color=70eb8bff">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantos99&layout=compact&theme=dark&border_radius=25&hide_border=true&locale=pt-BR&title_color=70eb8bff">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantos99&layout=compact&theme=dark&border_radius=25&hide_border=true&locale=pt-BR&title_color=70eb8bff&hide=Makefile">
 </div>
 
 ---
