@@ -8,10 +8,7 @@
 </div>
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="pythonImg" align="center" height="45" width="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySQLImg" align="center" height="30" width="40"></li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="djangoImg" align="center" height="30" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="djangoImg" align="center" height="30" width="40">
-          
+              
           
 </div>
 
