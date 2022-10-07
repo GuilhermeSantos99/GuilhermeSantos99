@@ -24,7 +24,7 @@
 <p>📫 How to reach me: </p>
 
 <div>
-    <a href="malito:guilherme.ssilva@protonmail.com">
+    <a href="guilherme.ssilva@protonmail.com">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail image">
     </a>
     <a href="https://twitter.com/Guilher_me99">
