@@ -7,9 +7,7 @@ class Guilherme
 public:
     std::vector<string> code = {"C++", "C","Python"};
     std::vector<string> tech = {"Qt", "HTML5", "CSS3"};
-
     const *char prefEditor = "Vim";
-
     const *char so = "Manjaro Linux";
 };
 
