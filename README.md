@@ -8,7 +8,9 @@ public:
     std::vector<string> code = {"C++", "C","Python"};
     std::vector<string> tech = {"Qt", "HTML5", "CSS3"};
     const *char prefEditor = "Vim";
-    const *char so = "Manjaro Linux";
+    const *char so = "Manjaro Linux";    
+    const *char email = "guilherme.ssilva@protonmail.com";
+    const *char twitter = "@Guilher_me99";
 };
 
 ```
